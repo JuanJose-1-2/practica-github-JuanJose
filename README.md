@@ -1,12 +1,12 @@
 # Proyecto tienda online
 
-##Descripcion
+## Descripcion
 Este proyecto simula una tienda en linea
 
-##Tecnologias
+## Tecnologias
 -HTML
 -CSS
 -JavaScript
 
-##Autor
+## Autor
 **Juan Jose Andres de la Cruz**
